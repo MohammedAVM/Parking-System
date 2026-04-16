@@ -1,18 +1,18 @@
-Arduino-Based Smart Parking System
-Project Overview
+# Arduino-Based Smart Parking System
+
+## Project Overview
 A smart parking management system designed and implemented using Arduino, ultrasonic sensors, and LED indicators.
-Features
 
-Sensor-based vehicle detection
-Automated parking availability indication
-Real-time LED status display
+## Features
+- Sensor-based vehicle detection
+- Automated parking availability indication
+- Real-time LED status display
 
-Tools & Technologies
+## Tools & Technologies
+- Arduino
+- Ultrasonic Sensors
+- LED Indicators
+- Embedded Systems Programming
 
-Arduino
-Ultrasonic Sensors
-LED Indicators
-Embedded Systems Programming
-
-About
+## About
 This project was developed as part of the Electrical Engineering program at Sultan Qaboos University, Oman.
